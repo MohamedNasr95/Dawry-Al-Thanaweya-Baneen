@@ -1,1 +1,0 @@
-table = document.getElementById("tbody");

@@ -1,0 +1,19 @@
+table = document.getElementById("tbody")
+// console.log(table)
+// name = "Mustafa";
+players = []
+
+
+table.innerHTML += `
+<tr>
+    <td>${name}</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+</tr>
+`

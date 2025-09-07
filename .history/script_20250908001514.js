@@ -13,7 +13,7 @@ players = [{ID: 1, name: "Mohamed Nasr", position: 1, points: 0, win: 0, loss: 0
 // === sorting by position ===
 players.sort(function(a, b){return a.position - b.position})
 
-// ========================   Injecting rows into HTML   ===========================================================================
+// ========================   Injecting 
 for( tVar = 0 ; tVar < players.length ; tVar++ )
 {
     table.innerHTML += 
